@@ -1,0 +1,5 @@
+# throwaway placeholder images
+sample-*.png
+
+# local tooling config
+.claude/
